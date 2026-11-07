@@ -79,6 +79,14 @@ Program; veri setini inceler, temizleme işlemlerini yapar, temel istatistikleri
 - `rating_distribution.png`
 - `duration_rating.png`
 
+  <img width="576" height="455" alt="rating_distribution" src="https://github.com/user-attachments/assets/45535808-1a64-4afa-8350-b3474529097e" />
+  
+  <img width="630" height="470" alt="genre_counts" src="https://github.com/user-attachments/assets/b4ca508d-9728-4df7-9707-b5e16d1ecba5" />
+
+<img width="554" height="501" alt="duration_rating" src="https://github.com/user-attachments/assets/1eb88fa7-a50f-4156-afce-1edcdc41acd0" />
+
+<img width="567" height="455" alt="duration_rating2" src="https://github.com/user-attachments/assets/044d95f9-8273-465b-bfdc-090296467434" />
+
 ## Öğrenci görevleri
 
 1. Veri setinin satır ve sütun sayısını bulun.
